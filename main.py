@@ -10,7 +10,7 @@ import requests
 from bs4 import BeautifulSoup
 
 smtp_email = 'sales@unixcommerce.com'
-smtp_pass = 'hohzitvzjmpdcmdj'
+smtp_pass = 'pass'
 smtp_host = 'smtp.gmail.com'
 smtp_port = 587
 receiver_address = 'sales@unixcommerce.com'
